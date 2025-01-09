@@ -31,4 +31,5 @@ class BebidaFragment : Fragment() {
         recyclerView.adapter = BebidaAdapter(BebidasProvider.bebidaList)
     }
 
+ /*Enaitz ho habia fet i hem funcionaba pero nose que va passar vaig tocar algo i ja no puc accedir al fragment de begudes */
 }
